@@ -5,4 +5,7 @@ function tracker(){
     if((A+B)<=C || (B+C)<=A || (C+A)<=B){
         document.getElementById('response').innerHTML="Not a triangle"
     }
+    else if ((A===B) && (B===C) && (C===A)){
+        document.getElementById('response').innerHTML="Equilateral triangle"
+    }
 };
