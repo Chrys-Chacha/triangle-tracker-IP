@@ -14,4 +14,7 @@ function tracker(){
     else if ((A!==B) && (B!==C) && (C!==A)){
         document.getElementById('response').innerHTML="scalene triangle"
     }
+    else{
+        document.getElementById('response').innerHTML="Enter the values"
+    }
 };
