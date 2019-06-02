@@ -8,4 +8,7 @@ function tracker(){
     else if ((A===B) && (B===C) && (C===A)){
         document.getElementById('response').innerHTML="Equilateral triangle"
     }
+    else if ((A===B) || (B===C) || (C===B)){
+        document.getElementById('response').innerHTML="Isosceles triangle"
+    }
 };
