@@ -1,6 +1,7 @@
 # Triangle-Tracker
 #### This is an independent project website that helps people establish the type of a triangle by inputing the measurements of the three sides of a triangle. 3rd June 2019
 #### By **Chrys Chacha**
+
 ## Description
 The website helps one to track the type of a triangle by simply inputing the measurements of the three sides of a triangle and clicking on the track button and a pop up shows telling them the type of a triagle.
 
@@ -9,9 +10,20 @@ The website helps one to track the type of a triangle by simply inputing the mea
 * cd triangle-tracker-IP
 * open index.html to see the HTML code
 * open script.js to see the JavaScript code
-* open styles.css to see the css code
+* open styles.css to see the css code.
+
+## Behaviour Driven Development
+* If a user inputs blank,they will get an output of "Not a triangle"
+
+* If a user inputs equal numbers in all th input fields except zero and negative numbers, they will get an output of "Equilateral triangle"
+
+* If a use inputs 2 equal positive values and a diffrent positive value in the third input field, they   will get an output of "Isosceles triangle"
+
+* If a user inputs positive values that are not equal in all the three input fields, they will get an    output of "Scalene triangle"on condition that, the sum of any two sides of the triangle must be          greater than the third side.
+
 ## Known Bugs
 The website opens on all devices.
+
 ## Technologies Used
 HTML,CSS and JavaScript. 
 ## Support and contact details
