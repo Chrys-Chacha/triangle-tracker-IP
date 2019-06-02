@@ -3,14 +3,14 @@
 #### By **Chrys Chacha**
 
 ## Description
-The website helps one to track the type of a triangle by simply inputing the measurements of the three sides of a triangle and clicking on the track button and a pop up shows telling them the type of a triagle.
+The website helps one to track the type of a triangle by simply inputing the measurements of the three sides of a triangle and clicking on the track button and a pop up shows telling them the type of the triagle. The clear button clears all the fields allowing the user to input new values.
 
 ## Setup/Installation Requirements
-* git clone (URL)
+* git clone (https://github.com/Chrys-Chacha/triangle-tracker-IP.git)
 * cd triangle-tracker-IP
-* open index.html to see the HTML code
-* open script.js to see the JavaScript code
-* open styles.css to see the css code.
+* Open index.html to see the HTML code
+* Open script.js to see the JavaScript code
+* Open styles.css to see the css code.
 
 ## Behaviour Driven Development
 * If a user inputs blank,they will get an output of "Not a triangle"
