@@ -16,6 +16,6 @@ function tracker(){
         document.getElementById('response').innerHTML="No values entered"
     }
     else  {
-        document.getElementById('response').innerHTML="scalene"
+        document.getElementById('response').innerHTML="Scalene"
     }
 };

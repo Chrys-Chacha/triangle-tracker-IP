@@ -1,5 +1,5 @@
 # Triangle-Tracker
-#### This is an independent project website that helps people establish the type of a triangle by inputing the measurements of the three sides of a triangle. 3rd June 2019
+#### This is a website that helps people establish the type of a triangle by inputing the measurements of the three sides of a triangle. 3rd June 2019
 #### By **Chrys Chacha**
 
 ## Description
