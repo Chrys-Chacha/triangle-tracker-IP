@@ -21,14 +21,6 @@ The website helps one to track the type of a triangle by simply inputing the mea
 |Two sides are equal| Side A=2 Side B=2 Side C=3|Isosceles triangle|
 |All sides are not equal| Side A=2 Side B=3 Side C=4|Scalene triangle|
 
-* If a user inputs blank,they will get an output of "Not a triangle"
-
-* If a user inputs equal numbers in all th input fields except zero and negative numbers, they will get an output of "Equilateral triangle"
-
-* If a use inputs 2 equal positive values and a diffrent positive value in the third input field, they   will get an output of "Isosceles triangle"
-
-* If a user inputs positive values that are not equal in all the three input fields, they will get an    output of "Scalene triangle"on condition that, the sum of any two sides of the triangle must be          greater than the third side.
-
 ## Known Bugs
 The website opens on all devices.
 
