@@ -13,6 +13,14 @@ The website helps one to track the type of a triangle by simply inputing the mea
 * Open styles.css to see the css code.
 
 ## Behaviour Driven Development
+|Behaviour|Input|Output|
+|:--------|:---:|-----:|
+|Blank submission|Null|No values entered|
+|One side is zero|Side A=6 Side B=0 Side C=7|Not a triangle|
+|All sides are equal| Side A=5 Side B=5 Side C=5|Equilateral triangle|
+|Two sides are equal| Side A=2 Side B=2 Side C=3|Isosceles triangle|
+|All sides are not equal| Side A=2 Side B=3 Side C=4|Scalene triangle|
+
 * If a user inputs blank,they will get an output of "Not a triangle"
 
 * If a user inputs equal numbers in all th input fields except zero and negative numbers, they will get an output of "Equilateral triangle"
